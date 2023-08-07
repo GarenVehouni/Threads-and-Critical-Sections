@@ -1,0 +1,45 @@
+**Author**
+Garen Vehouni 
+
+**Directions**
+
+1. Access directory by typing "cd Project1" into command prompt 
+2. Typing ls will show you files under that given directory 
+3. Type "make" into command prompt 
+4. To run the first serial code, type "pi_serial" followed by a number < 10 
+5. (Wait a few moments, calculating 10^9 takes around 7 seconds
+6. To run the mutex code, type "pi_mutex" followed by the amount of threads you would like to use
+7. To run the semaphore code, type "pi_semaphore" followed again by the amount of threads you would like to use 
+8. **Not enterring an argument, or an invalid number will display an error message**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
